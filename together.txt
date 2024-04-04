@@ -1,1 +1,2 @@
 Predicting the likelihood of diabetes from general health and lifestyle indicators (Amir Rahimi)
+Analyzing VIX and GVZ impact on our firm's profit, focusing on B-Book PnL and market sentiment, economic data, and risky clients (Alexander Chieffalo)
